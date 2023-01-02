@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.segadroid.dinozombieshooter.app-mergeDebugResources-12:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\banro\\.gradle\\caches\\transforms-3\\393d5deb4961756dfc098ec7aca7537e\\transformed\\core-1.2.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

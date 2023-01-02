@@ -1,0 +1,238 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.segadroid.dinozombieshooter"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+10
+11    <supports-screens
+11-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:75:5-78:39
+12        android:anyDensity="true"
+12-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:77:9-34
+13        android:largeScreens="true"
+13-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:75:23-50
+14        android:normalScreens="true"
+14-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:78:9-37
+15        android:smallScreens="true" />
+15-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:76:9-36
+16
+17    <!-- INMOBI -->
+18    <!--
+19	<uses-permission android:name="android.permission.READ_LOGS" />
+20	<uses-permission android:name="android.permission.VIBRATE"/>
+21	<uses-permission android:name="android.permission.CALL_PHONE" />
+22	<uses-permission android:name="android.permission.READ_CALENDAR"/>
+23	<uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+24	<uses-permission android:name="android.permission.RECORD_AUDIO"/>
+25	<uses-permission android:name="android.permission.GET_TASKS" />
+26	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+27	<uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION"/>
+28    -->
+29    <!-- INMOBI -->
+30    <uses-permission android:name="android.permission.INTERNET" />
+30-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:91:5-67
+30-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:91:22-64
+31    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+31-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:93:5-79
+31-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:93:22-76
+32    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+32-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:94:5-75
+32-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:94:22-73
+33    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+33-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:95:5-81
+33-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:95:22-78
+34    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+34-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:96:5-81
+34-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:96:22-78
+35    <uses-permission android:name="android.permission.WAKE_LOCK" />
+35-->[com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+35-->[com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:22-65
+36
+37    <application
+37-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:7:5-73:19
+38        android:name="androidx.multidex.MultiDexApplication"
+38-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:10:9-61
+39        android:allowBackup="true"
+39-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:9:9-35
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.2.0] C:\Users\banro\.gradle\caches\transforms-3\393d5deb4961756dfc098ec7aca7537e\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+41        android:debuggable="true"
+42        android:icon="@drawable/icon"
+42-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:8:9-38
+43        android:label="@string/app_name" >
+43-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:7:18-50
+44        <meta-data
+44-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:12:9-13:69
+45            android:name="com.google.android.gms.version"
+45-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:12:20-65
+46            android:value="@integer/google_play_services_version" />
+46-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:13:13-66
+47        <meta-data
+47-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:14:9-15:46
+48            android:name="com.google.android.gms.games.APP_ID"
+48-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:14:20-70
+49            android:value="@string/app_id" />
+49-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:15:13-43
+50
+51        <activity
+51-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:17:9-26:20
+52            android:name="com.segadroid.dinozombieshooter.PTPlayer"
+52-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:17:19-43
+53            android:configChanges="orientation"
+53-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:21:13-48
+54            android:label="@string/app_name"
+54-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:18:13-45
+55            android:screenOrientation="landscape"
+55-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:19:13-50
+56            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+56-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:20:13-71
+57            <intent-filter>
+57-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:22:13-25:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:23:17-69
+58-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:23:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:24:17-77
+60-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:24:27-74
+61            </intent-filter>
+62        </activity>
+63
+64        <!-- FACEBOOK SDK -->
+65        <!--
+66        <activity android:name="com.facebook.ads.InterstitialAdActivity"
+67            android:configChanges="keyboardHidden|orientation"
+68            android:screenOrientation="portrait"/>
+69        -->
+70        <!-- FACEBOOK SDK -->
+71
+72
+73        <!-- ADMOB -->
+74        <meta-data
+74-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:35:9-36:69
+75            android:name="com.google.android.gms.ads.APPLICATION_ID"
+75-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:35:20-76
+76            android:value="ca-app-pub-3940256099942544~3347511713" />
+76-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:36:13-67
+77
+78        <activity
+78-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:38:9-40:64
+79            android:name="com.google.android.gms.ads.AdActivity"
+79-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:38:19-71
+80            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+80-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:39:13-122
+81            android:exported="false"
+81-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:32:13-37
+82            android:theme="@android:style/Theme.Translucent" />
+82-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:40:13-61
+83        <!-- ADMOB -->
+84
+85
+86        <!-- VUNGLE -->
+87        <!--
+88        <activity
+89             android:name="com.vungle.publisher.FullScreenAdActivity"
+90             android:configChanges="keyboardHidden|orientation|screenSize"
+91             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+92        -->
+93        <!-- VUNGLE -->
+94
+95
+96        <!-- APPLOVIN SDK -->
+97        <!--
+98        <activity android:name="com.applovin.adview.AppLovinInterstitialActivity" />
+99        <activity android:name="com.applovin.adview.AppLovinConfirmationActivity" />
+100		<meta-data
+101            android:name="applovin.sdk.key"
+102            android:value="{{AppLovin_SDK_key}}" />
+103        -->
+104        <!-- APPLOVIN SDK -->
+105
+106
+107        <!-- INMOBI -->
+108        <!--
+109	<activity android:name="com.inmobi.rendering.InMobiAdActivity"
+110              android:configChanges="keyboardHidden|orientation|keyboard|smallestScreenSize|screenSize"
+111              android:theme="@android:style/Theme.Translucent.NoTitleBar"
+112              android:hardwareAccelerated="true" />
+113        -->
+114        <!-- INMOBI -->
+115
+116
+117        <!-- CHARTBOOST -->
+118        <!--
+119		<activity android:name="com.chartboost.sdk.CBImpressionActivity"
+120              android:excludeFromRecents="true"
+121              android:hardwareAccelerated="true"
+122              android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+123              android:configChanges="keyboardHidden|orientation|screenSize"/>
+124        -->
+125        <!-- CHARTBOOST -->
+126        <uses-library
+126-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:72:9-87
+127            android:name="org.apache.http.legacy"
+127-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:72:23-60
+128            android:required="false" />
+128-->G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:72:61-85
+129
+130        <activity
+130-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:23:9-27:75
+131            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+131-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:24:13-93
+132            android:excludeFromRecents="true"
+132-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:25:13-46
+133            android:exported="false"
+133-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:26:13-37
+134            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+134-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:27:13-72
+135        <!--
+136            Service handling Google Sign-In user revocation. For apps that do not integrate with
+137            Google Sign-In, this service will never be started.
+138        -->
+139        <service
+139-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:33:9-37:51
+140            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+140-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:34:13-89
+141            android:exported="true"
+141-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:35:13-36
+142            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+142-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:36:13-107
+143            android:visibleToInstantApps="true" />
+143-->[com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:37:13-48
+144
+145        <activity
+145-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+146            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+146-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+147            android:exported="false"
+147-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+148            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+148-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+149
+150        <provider
+150-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:35:9-39:39
+151            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+151-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:36:13-76
+152            android:authorities="com.segadroid.dinozombieshooter.mobileadsinitprovider"
+152-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:37:13-73
+153            android:exported="false"
+153-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:38:13-37
+154            android:initOrder="100" />
+154-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:39:13-36
+155
+156        <service
+156-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:41:9-44:40
+157            android:name="com.google.android.gms.ads.AdService"
+157-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:42:13-64
+158            android:enabled="true"
+158-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:43:13-35
+159            android:exported="false" />
+159-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:44:13-37
+160    </application>
+161
+162</manifest>

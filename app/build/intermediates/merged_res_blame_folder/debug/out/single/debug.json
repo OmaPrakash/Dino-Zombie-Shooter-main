@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.segadroid.dinozombieshooter.app-merged_res-14:/drawable-hdpi_icon.png.flat",
+        "source": "com.segadroid.dinozombieshooter.app-main-16:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "com.segadroid.dinozombieshooter.app-merged_res-14:/drawable_icon.png.flat",
+        "source": "com.segadroid.dinozombieshooter.app-main-16:/drawable/icon.png"
+    },
+    {
+        "merged": "com.segadroid.dinozombieshooter.app-merged_res-14:/drawable-mdpi_icon.png.flat",
+        "source": "com.segadroid.dinozombieshooter.app-main-16:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "com.segadroid.dinozombieshooter.app-merged_res-14:/drawable-xhdpi_icon.png.flat",
+        "source": "com.segadroid.dinozombieshooter.app-main-16:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "com.segadroid.dinozombieshooter.app-merged_res-14:/drawable-xxhdpi_icon.png.flat",
+        "source": "com.segadroid.dinozombieshooter.app-main-16:/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "com.segadroid.dinozombieshooter.app-merged_res-14:/drawable-ldpi_icon.png.flat",
+        "source": "com.segadroid.dinozombieshooter.app-main-16:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "com.segadroid.dinozombieshooter.app-merged_res-14:/drawable_spacer.png.flat",
+        "source": "com.segadroid.dinozombieshooter.app-main-16:/drawable/spacer.png"
+    },
+    {
+        "merged": "com.segadroid.dinozombieshooter.app-merged_res-14:/layout_main.xml.flat",
+        "source": "com.segadroid.dinozombieshooter.app-main-16:/layout/main.xml"
+    },
+    {
+        "merged": "com.segadroid.dinozombieshooter.app-merged_res-14:/drawable-xxxhdpi_icon.png.flat",
+        "source": "com.segadroid.dinozombieshooter.app-main-16:/drawable-xxxhdpi/icon.png"
+    }
+]

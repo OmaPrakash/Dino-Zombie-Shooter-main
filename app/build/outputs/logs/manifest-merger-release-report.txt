@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\808657e6bc223271377de1f122acfae3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-19.4.0.aar\1560dea861697c68e3fdb1a5d98c7155\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\724735773a78dda332089da6dfd62ebe\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\57bfc66ab1465f66d2f0a9ddb6a8c35b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\multidex-2.0.1.aar\66a3c85ba88b638806108a44ca745b52\AndroidManifest.xml:17:1-22:12
+MERGED from [:aob_sessionreporting] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\aob_sessionreporting.aar\e761ad7f6b52828b2112dfdaef61d1b0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-17.0.0.aar\2c290fa4b8fcf2db910645f17f180651\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-17.0.0.aar\4410774e5b99ef18b8e5f2099774b814\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\387ae41934871af8fe619fa82a951c4a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\a9240096f0ec715f9e3e42bb0bf9f25a\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\277161e772791cc00408fcc8fa8c14a5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\eec633bc5150f995b5b2e957dbf940f4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\4a083f9c41b9351390385a05392c22ae\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\b29d00959b6082f02b85e60c41d81110\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\63dfcb86e537caac24300b91d9e4e1d2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\89a58a53524d84a55f0efe14bea9b557\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\5ebcc6e8da2eac03d60f41682d818460\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\b162a8bbcfb9f44d04d098f293211b4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\92ee2876a1d0122812d8607a7d74b789\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\23c200ff5a086fcfc7017324c3aac0fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\51b1ca75e01f1bdf2c0346879e4f193b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\edfd8c84a66a1848e778da273677f016\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ba0259c12a3f647a3c3963cd35587321\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\965070e2b4716bd10b49ad2dc6cd3661\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\694519cb4bae804dc8ca65203085a89f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\03134de45bc06fd3f95c52940b585295\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\cf86c18dfc69151e6048369d8d39d21c\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\0324f4639d000cbac7e59f509ae7034a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\a7a0905d817903f19be91cb93fb443f8\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\2758f45c77cc9a21650f48f6823806a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\38fdf9b7f9a9d50f24db8a965ef20701\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\2e4a61d0ea9fdd1a09b3367226254ea6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\a109e7fd729edae6a2706e43577052f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf26fdc3eeb3ef14d70d3406b61ebedc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\2e79f76562e13bb9eea903a3b8116678\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d95ebc6bca80fb8132056d3f046575eb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\299a0f4ba415b5bcb0ab1f2b0c3e643a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c83af864e3df81f8256aa34fc502c6a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\a083190b896fbc46c14d0f08135c043b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:7:5-73:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\808657e6bc223271377de1f122acfae3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\808657e6bc223271377de1f122acfae3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\724735773a78dda332089da6dfd62ebe\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\724735773a78dda332089da6dfd62ebe\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\57bfc66ab1465f66d2f0a9ddb6a8c35b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\57bfc66ab1465f66d2f0a9ddb6a8c35b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\387ae41934871af8fe619fa82a951c4a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\387ae41934871af8fe619fa82a951c4a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\a9240096f0ec715f9e3e42bb0bf9f25a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\a9240096f0ec715f9e3e42bb0bf9f25a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\eec633bc5150f995b5b2e957dbf940f4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\eec633bc5150f995b5b2e957dbf940f4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\4a083f9c41b9351390385a05392c22ae\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\4a083f9c41b9351390385a05392c22ae\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\b29d00959b6082f02b85e60c41d81110\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\b29d00959b6082f02b85e60c41d81110\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\cf86c18dfc69151e6048369d8d39d21c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\cf86c18dfc69151e6048369d8d39d21c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\0324f4639d000cbac7e59f509ae7034a\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\0324f4639d000cbac7e59f509ae7034a\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\a7a0905d817903f19be91cb93fb443f8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\a7a0905d817903f19be91cb93fb443f8\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\cf86c18dfc69151e6048369d8d39d21c\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:7:18-50
+	android:icon
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:10:9-61
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:12:9-13:69
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\b29d00959b6082f02b85e60c41d81110\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\b29d00959b6082f02b85e60c41d81110\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:13:13-66
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:14:9-15:46
+	android:value
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:14:20-70
+activity#com.segadroid.dinozombieshooter.PTPlayer
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:19:13-50
+	android:label
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:21:13-48
+	android:theme
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:20:13-71
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:17:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:24:27-74
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:35:9-36:69
+	android:value
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:35:20-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:38:9-40:64
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:39:13-122
+	android:theme
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:40:13-61
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:38:19-71
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:72:9-87
+	android:required
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:72:61-85
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:72:23-60
+supports-screens
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:75:5-78:39
+	android:largeScreens
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:75:23-50
+	android:smallScreens
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:76:9-36
+	android:normalScreens
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:78:9-37
+	android:anyDensity
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:77:9-34
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:91:5-67
+MERGED from [:aob_sessionreporting] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\aob_sessionreporting.aar\e761ad7f6b52828b2112dfdaef61d1b0\AndroidManifest.xml:11:5-67
+MERGED from [:aob_sessionreporting] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\aob_sessionreporting.aar\e761ad7f6b52828b2112dfdaef61d1b0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\277161e772791cc00408fcc8fa8c14a5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\277161e772791cc00408fcc8fa8c14a5\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:91:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:93:5-79
+MERGED from [:aob_sessionreporting] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\aob_sessionreporting.aar\e761ad7f6b52828b2112dfdaef61d1b0\AndroidManifest.xml:12:5-79
+MERGED from [:aob_sessionreporting] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\aob_sessionreporting.aar\e761ad7f6b52828b2112dfdaef61d1b0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\277161e772791cc00408fcc8fa8c14a5\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\277161e772791cc00408fcc8fa8c14a5\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:93:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:94:5-75
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:94:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:95:5-81
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:95:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:96:5-81
+	android:name
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml:96:22-78
+uses-sdk
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\808657e6bc223271377de1f122acfae3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\808657e6bc223271377de1f122acfae3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-19.4.0.aar\1560dea861697c68e3fdb1a5d98c7155\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-19.4.0.aar\1560dea861697c68e3fdb1a5d98c7155\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\724735773a78dda332089da6dfd62ebe\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\724735773a78dda332089da6dfd62ebe\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\57bfc66ab1465f66d2f0a9ddb6a8c35b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\57bfc66ab1465f66d2f0a9ddb6a8c35b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\multidex-2.0.1.aar\66a3c85ba88b638806108a44ca745b52\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\multidex-2.0.1.aar\66a3c85ba88b638806108a44ca745b52\AndroidManifest.xml:20:5-43
+MERGED from [:aob_sessionreporting] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\aob_sessionreporting.aar\e761ad7f6b52828b2112dfdaef61d1b0\AndroidManifest.xml:7:5-9:41
+MERGED from [:aob_sessionreporting] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\aob_sessionreporting.aar\e761ad7f6b52828b2112dfdaef61d1b0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-17.0.0.aar\2c290fa4b8fcf2db910645f17f180651\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-17.0.0.aar\2c290fa4b8fcf2db910645f17f180651\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-17.0.0.aar\4410774e5b99ef18b8e5f2099774b814\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-17.0.0.aar\4410774e5b99ef18b8e5f2099774b814\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\387ae41934871af8fe619fa82a951c4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\387ae41934871af8fe619fa82a951c4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\a9240096f0ec715f9e3e42bb0bf9f25a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\a9240096f0ec715f9e3e42bb0bf9f25a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\277161e772791cc00408fcc8fa8c14a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\277161e772791cc00408fcc8fa8c14a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\eec633bc5150f995b5b2e957dbf940f4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\eec633bc5150f995b5b2e957dbf940f4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\4a083f9c41b9351390385a05392c22ae\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\4a083f9c41b9351390385a05392c22ae\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\b29d00959b6082f02b85e60c41d81110\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\b29d00959b6082f02b85e60c41d81110\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\63dfcb86e537caac24300b91d9e4e1d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\63dfcb86e537caac24300b91d9e4e1d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\89a58a53524d84a55f0efe14bea9b557\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\89a58a53524d84a55f0efe14bea9b557\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\5ebcc6e8da2eac03d60f41682d818460\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\5ebcc6e8da2eac03d60f41682d818460\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\b162a8bbcfb9f44d04d098f293211b4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\b162a8bbcfb9f44d04d098f293211b4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\92ee2876a1d0122812d8607a7d74b789\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\92ee2876a1d0122812d8607a7d74b789\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\23c200ff5a086fcfc7017324c3aac0fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\23c200ff5a086fcfc7017324c3aac0fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\51b1ca75e01f1bdf2c0346879e4f193b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\51b1ca75e01f1bdf2c0346879e4f193b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\edfd8c84a66a1848e778da273677f016\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\edfd8c84a66a1848e778da273677f016\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ba0259c12a3f647a3c3963cd35587321\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ba0259c12a3f647a3c3963cd35587321\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\965070e2b4716bd10b49ad2dc6cd3661\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\965070e2b4716bd10b49ad2dc6cd3661\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\694519cb4bae804dc8ca65203085a89f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\694519cb4bae804dc8ca65203085a89f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\03134de45bc06fd3f95c52940b585295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\03134de45bc06fd3f95c52940b585295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\cf86c18dfc69151e6048369d8d39d21c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\cf86c18dfc69151e6048369d8d39d21c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\0324f4639d000cbac7e59f509ae7034a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\0324f4639d000cbac7e59f509ae7034a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\a7a0905d817903f19be91cb93fb443f8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\a7a0905d817903f19be91cb93fb443f8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\2758f45c77cc9a21650f48f6823806a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\2758f45c77cc9a21650f48f6823806a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\38fdf9b7f9a9d50f24db8a965ef20701\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\38fdf9b7f9a9d50f24db8a965ef20701\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\2e4a61d0ea9fdd1a09b3367226254ea6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\2e4a61d0ea9fdd1a09b3367226254ea6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\a109e7fd729edae6a2706e43577052f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\a109e7fd729edae6a2706e43577052f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf26fdc3eeb3ef14d70d3406b61ebedc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf26fdc3eeb3ef14d70d3406b61ebedc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\2e79f76562e13bb9eea903a3b8116678\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\2e79f76562e13bb9eea903a3b8116678\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d95ebc6bca80fb8132056d3f046575eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d95ebc6bca80fb8132056d3f046575eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\299a0f4ba415b5bcb0ab1f2b0c3e643a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\299a0f4ba415b5bcb0ab1f2b0c3e643a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c83af864e3df81f8256aa34fc502c6a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c83af864e3df81f8256aa34fc502c6a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\a083190b896fbc46c14d0f08135c043b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\a083190b896fbc46c14d0f08135c043b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-19.4.0.aar\1560dea861697c68e3fdb1a5d98c7155\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anas\Desktop\New folder\Project files\Android Code Source\android\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\931ab42837db69e184ee23426c2e386c\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\a9240096f0ec715f9e3e42bb0bf9f25a\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\a9240096f0ec715f9e3e42bb0bf9f25a\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\a9240096f0ec715f9e3e42bb0bf9f25a\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\a9240096f0ec715f9e3e42bb0bf9f25a\AndroidManifest.xml:24:13-79
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:36:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:41:9-44:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f3bfa30bebed4c74dfbb15e64860b125\AndroidManifest.xml:42:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\277161e772791cc00408fcc8fa8c14a5\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Anas\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\277161e772791cc00408fcc8fa8c14a5\AndroidManifest.xml:25:22-65

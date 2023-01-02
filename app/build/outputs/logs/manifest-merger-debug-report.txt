@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\banro\.gradle\caches\transforms-3\1e6052f924d63738a26c3e620654d535\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\banro\.gradle\caches\transforms-3\d62d52c78b4b43225d7b6a4f1371b69c\transformed\jetified-play-services-games-20.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\5349af83237468e806ac9d44b8ff0764\transformed\jetified-play-services-ads-19.4.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\95a86ef06a659da3d057fb99381f8798\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\9cba6c0f8f553a1c6627386ab6757105\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:aob_sessionreporting] G:\dinozombie-10\android\aob_sessionreporting\build\.transforms\03386cd570cd38c4e1a33ce037b5a89d\transformed\jetified-aob_sessionreporting\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\a83e3fc42ca308e31ce3612db5a685b5\transformed\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\2b209da88efd295f3eb62a63a8c1f1c5\transformed\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\48da9339894d457bf143bdfe8ee1254e\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\3f76f77f8e509cd1d284737e87d12e05\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\0976a4bd8c89359e276649d3ef6e03d0\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\banro\.gradle\caches\transforms-3\03b197ee5c249dda7658413dabd28838\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\ad822f617078449710576407c5919783\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\dd4805b85c0fb10fd8a7f2b1f789c60b\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\a0f487a4babc02e94edd80c903b84cb8\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\672c698f430ef3053188faf174992e0a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\5dc7619c10ef7678503baa0c7d18529c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\7f38362bc79cae2826970a4e78d0cb43\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\banro\.gradle\caches\transforms-3\393d5deb4961756dfc098ec7aca7537e\transformed\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\banro\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\ee791ac4c91bb9bf1c4a7cccd341e5a6\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\204d3d0be73b32d1e471282cc38c7187\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\e1e2678fabf72a33f79cbc86269cb4b6\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:7:5-73:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\banro\.gradle\caches\transforms-3\d62d52c78b4b43225d7b6a4f1371b69c\transformed\jetified-play-services-games-20.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\banro\.gradle\caches\transforms-3\d62d52c78b4b43225d7b6a4f1371b69c\transformed\jetified-play-services-games-20.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\95a86ef06a659da3d057fb99381f8798\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\95a86ef06a659da3d057fb99381f8798\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\9cba6c0f8f553a1c6627386ab6757105\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\9cba6c0f8f553a1c6627386ab6757105\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\48da9339894d457bf143bdfe8ee1254e\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\48da9339894d457bf143bdfe8ee1254e\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\3f76f77f8e509cd1d284737e87d12e05\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\3f76f77f8e509cd1d284737e87d12e05\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\0976a4bd8c89359e276649d3ef6e03d0\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\0976a4bd8c89359e276649d3ef6e03d0\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\banro\.gradle\caches\transforms-3\03b197ee5c249dda7658413dabd28838\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\banro\.gradle\caches\transforms-3\03b197ee5c249dda7658413dabd28838\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\banro\.gradle\caches\transforms-3\393d5deb4961756dfc098ec7aca7537e\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\banro\.gradle\caches\transforms-3\393d5deb4961756dfc098ec7aca7537e\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\banro\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\banro\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\ee791ac4c91bb9bf1c4a7cccd341e5a6\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\ee791ac4c91bb9bf1c4a7cccd341e5a6\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\banro\.gradle\caches\transforms-3\393d5deb4961756dfc098ec7aca7537e\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:7:18-50
+	android:icon
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:10:9-61
+meta-data#com.google.android.gms.version
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:12:9-13:69
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\banro\.gradle\caches\transforms-3\03b197ee5c249dda7658413dabd28838\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\banro\.gradle\caches\transforms-3\03b197ee5c249dda7658413dabd28838\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:13:13-66
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:14:9-15:46
+	android:value
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:14:20-70
+activity#com.segadroid.dinozombieshooter.PTPlayer
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:19:13-50
+	android:label
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:21:13-48
+	android:theme
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:20:13-71
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:17:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:24:27-74
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:35:9-36:69
+	android:value
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:35:20-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:38:9-40:64
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:39:13-122
+	android:theme
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:40:13-61
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:38:19-71
+uses-library#org.apache.http.legacy
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:72:9-87
+	android:required
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:72:61-85
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:72:23-60
+supports-screens
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:75:5-78:39
+	android:largeScreens
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:75:23-50
+	android:smallScreens
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:76:9-36
+	android:normalScreens
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:78:9-37
+	android:anyDensity
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:77:9-34
+uses-permission#android.permission.INTERNET
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:91:5-67
+MERGED from [:aob_sessionreporting] G:\dinozombie-10\android\aob_sessionreporting\build\.transforms\03386cd570cd38c4e1a33ce037b5a89d\transformed\jetified-aob_sessionreporting\AndroidManifest.xml:11:5-67
+MERGED from [:aob_sessionreporting] G:\dinozombie-10\android\aob_sessionreporting\build\.transforms\03386cd570cd38c4e1a33ce037b5a89d\transformed\jetified-aob_sessionreporting\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:91:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:93:5-79
+MERGED from [:aob_sessionreporting] G:\dinozombie-10\android\aob_sessionreporting\build\.transforms\03386cd570cd38c4e1a33ce037b5a89d\transformed\jetified-aob_sessionreporting\AndroidManifest.xml:12:5-79
+MERGED from [:aob_sessionreporting] G:\dinozombie-10\android\aob_sessionreporting\build\.transforms\03386cd570cd38c4e1a33ce037b5a89d\transformed\jetified-aob_sessionreporting\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:93:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:94:5-75
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:94:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:95:5-81
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:95:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:96:5-81
+	android:name
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml:96:22-78
+uses-sdk
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\banro\.gradle\caches\transforms-3\1e6052f924d63738a26c3e620654d535\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\banro\.gradle\caches\transforms-3\1e6052f924d63738a26c3e620654d535\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\banro\.gradle\caches\transforms-3\d62d52c78b4b43225d7b6a4f1371b69c\transformed\jetified-play-services-games-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:20.0.1] C:\Users\banro\.gradle\caches\transforms-3\d62d52c78b4b43225d7b6a4f1371b69c\transformed\jetified-play-services-games-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\5349af83237468e806ac9d44b8ff0764\transformed\jetified-play-services-ads-19.4.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\5349af83237468e806ac9d44b8ff0764\transformed\jetified-play-services-ads-19.4.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\95a86ef06a659da3d057fb99381f8798\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\95a86ef06a659da3d057fb99381f8798\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\9cba6c0f8f553a1c6627386ab6757105\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\9cba6c0f8f553a1c6627386ab6757105\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:aob_sessionreporting] G:\dinozombie-10\android\aob_sessionreporting\build\.transforms\03386cd570cd38c4e1a33ce037b5a89d\transformed\jetified-aob_sessionreporting\AndroidManifest.xml:7:5-9:41
+MERGED from [:aob_sessionreporting] G:\dinozombie-10\android\aob_sessionreporting\build\.transforms\03386cd570cd38c4e1a33ce037b5a89d\transformed\jetified-aob_sessionreporting\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\a83e3fc42ca308e31ce3612db5a685b5\transformed\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\a83e3fc42ca308e31ce3612db5a685b5\transformed\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\2b209da88efd295f3eb62a63a8c1f1c5\transformed\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\2b209da88efd295f3eb62a63a8c1f1c5\transformed\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\48da9339894d457bf143bdfe8ee1254e\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\banro\.gradle\caches\transforms-3\48da9339894d457bf143bdfe8ee1254e\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\3f76f77f8e509cd1d284737e87d12e05\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\3f76f77f8e509cd1d284737e87d12e05\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\0976a4bd8c89359e276649d3ef6e03d0\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\0976a4bd8c89359e276649d3ef6e03d0\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\banro\.gradle\caches\transforms-3\03b197ee5c249dda7658413dabd28838\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\banro\.gradle\caches\transforms-3\03b197ee5c249dda7658413dabd28838\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\ad822f617078449710576407c5919783\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\ad822f617078449710576407c5919783\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\dd4805b85c0fb10fd8a7f2b1f789c60b\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\dd4805b85c0fb10fd8a7f2b1f789c60b\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\a0f487a4babc02e94edd80c903b84cb8\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\a0f487a4babc02e94edd80c903b84cb8\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\672c698f430ef3053188faf174992e0a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\672c698f430ef3053188faf174992e0a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\5dc7619c10ef7678503baa0c7d18529c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\5dc7619c10ef7678503baa0c7d18529c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\7f38362bc79cae2826970a4e78d0cb43\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\7f38362bc79cae2826970a4e78d0cb43\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\banro\.gradle\caches\transforms-3\393d5deb4961756dfc098ec7aca7537e\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\banro\.gradle\caches\transforms-3\393d5deb4961756dfc098ec7aca7537e\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\banro\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\banro\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\ee791ac4c91bb9bf1c4a7cccd341e5a6\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\ee791ac4c91bb9bf1c4a7cccd341e5a6\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\204d3d0be73b32d1e471282cc38c7187\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\204d3d0be73b32d1e471282cc38c7187\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\banro\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\e1e2678fabf72a33f79cbc86269cb4b6\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\banro\.gradle\caches\transforms-3\e1e2678fabf72a33f79cbc86269cb4b6\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\5349af83237468e806ac9d44b8ff0764\transformed\jetified-play-services-ads-19.4.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\dinozombie-10\android\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:36:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:41:9-44:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:42:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\banro\.gradle\caches\transforms-3\86f36f3bc4284a4769a20e4a9d6ccc80\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:22-65

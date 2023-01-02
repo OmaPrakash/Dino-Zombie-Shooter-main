@@ -1,0 +1,7 @@
+#Sun Jun 19 14:11:57 IST 2022
+base.1=G\:\\dinozombie-10\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=G\:\\dinozombie-10\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

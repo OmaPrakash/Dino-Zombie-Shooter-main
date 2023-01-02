@@ -1,0 +1,17 @@
+com.segadroid.dinozombieshooter.app-jetified-play-services-basement-17.3.0-0 C:\Users\banro\.gradle\caches\transforms-3\03b197ee5c249dda7658413dabd28838\transformed\jetified-play-services-basement-17.3.0\res
+com.segadroid.dinozombieshooter.app-core-1.2.0-1 C:\Users\banro\.gradle\caches\transforms-3\393d5deb4961756dfc098ec7aca7537e\transformed\core-1.2.0\res
+com.segadroid.dinozombieshooter.app-jetified-play-services-ads-lite-19.4.0-2 C:\Users\banro\.gradle\caches\transforms-3\455285146244d9d9b52b1f5f3caa9580\transformed\jetified-play-services-ads-lite-19.4.0\res
+com.segadroid.dinozombieshooter.app-jetified-play-services-ads-19.4.0-3 C:\Users\banro\.gradle\caches\transforms-3\5349af83237468e806ac9d44b8ff0764\transformed\jetified-play-services-ads-19.4.0\res
+com.segadroid.dinozombieshooter.app-jetified-play-services-base-17.1.0-4 C:\Users\banro\.gradle\caches\transforms-3\66c86f772866d7c11c8cc8ceb37cc2ab\transformed\jetified-play-services-base-17.1.0\res
+com.segadroid.dinozombieshooter.app-coordinatorlayout-1.0.0-5 C:\Users\banro\.gradle\caches\transforms-3\9799da5c1e0689f1193d2bfe97eafa0b\transformed\coordinatorlayout-1.0.0\res
+com.segadroid.dinozombieshooter.app-jetified-play-services-auth-18.1.0-6 C:\Users\banro\.gradle\caches\transforms-3\d5cfbfd2d00bea4fff79999aa12fa365\transformed\jetified-play-services-auth-18.1.0\res
+com.segadroid.dinozombieshooter.app-browser-1.0.0-7 C:\Users\banro\.gradle\caches\transforms-3\dd4805b85c0fb10fd8a7f2b1f789c60b\transformed\browser-1.0.0\res
+com.segadroid.dinozombieshooter.app-jetified-aob_sessionreporting-8 G:\dinozombie-10\android\aob_sessionreporting\build\.transforms\03386cd570cd38c4e1a33ce037b5a89d\transformed\jetified-aob_sessionreporting\res
+com.segadroid.dinozombieshooter.app-pngs-9 G:\dinozombie-10\android\app\build\generated\res\pngs\debug
+com.segadroid.dinozombieshooter.app-resValues-10 G:\dinozombie-10\android\app\build\generated\res\resValues\debug
+com.segadroid.dinozombieshooter.app-rs-11 G:\dinozombie-10\android\app\build\generated\res\rs\debug
+com.segadroid.dinozombieshooter.app-mergeDebugResources-12 G:\dinozombie-10\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.segadroid.dinozombieshooter.app-mergeDebugResources-13 G:\dinozombie-10\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.segadroid.dinozombieshooter.app-merged_res-14 G:\dinozombie-10\android\app\build\intermediates\merged_res\debug
+com.segadroid.dinozombieshooter.app-debug-15 G:\dinozombie-10\android\app\src\debug\res
+com.segadroid.dinozombieshooter.app-main-16 G:\dinozombie-10\android\app\src\main\res
